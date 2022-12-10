@@ -131,10 +131,7 @@ img {
   font-size: 14px;
   text-transform: capitalize;
   color: #2a2a2a;
-  -webkit-transition: all 0.3s ease 0s;
-  -moz-transition: all 0.3s ease 0s;
-  -o-transition: all 0.3s ease 0s;
-  transition: all 0.3s ease 0s;
+
   border: transparent;
   padding: 8px 15px;
   border-radius: 18px;
